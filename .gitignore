@@ -13,6 +13,10 @@ uploads/
 vector_store/
 memory_store/
 
+# Data files (keep local, avoid GitHub size limits)
+data/Raw/*.csv
+*.csv
+
 # Local system
 .DS_Store
 Thumbs.db
