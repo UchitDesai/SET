@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+venv/
+.env
+.venv/
+
+# FastAPI / app generated files
+uploads/
+vector_store/
+memory_store/
+
+# Local system
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Compiled files
+*.so
+
+# Builds
+build/
+dist/
+*.egg-info/
